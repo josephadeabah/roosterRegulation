@@ -1,2 +1,1 @@
-# roosterRegulation
-Javascript Testing with Mocha
+# rooster-regulation
